@@ -56,7 +56,7 @@ You are free to use, modify, and distribute this material, provided that proper 
 
 If you use these simulations or results in your work, please cite:
 
-> Lionel Barreiro, "Emergent Quantum Field Theory: A non-factorizable Hilbert space approach," Preprint (2025).
+> Lionel Barreiro. Emergent Quantum Field Theory (E-QFT) An evolution of Quantum Field Theory based on a non-factorizable global Hilbert space with numerical analyses and experimental validations. Authorea. April 28, 2025.
 
 BibTeX format (example):
 
