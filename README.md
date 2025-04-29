@@ -21,7 +21,6 @@ Emergent Quantum Field Theory (E-QFT), also known by its French acronym TQC-E (*
 
 Numerical validations demonstrate local equivalence with standard QFT (deviations \( < 10^{-6} \)), while predicting measurable topological effects.
 
-For a full theoretical presentation, refer to the [Wikipedia draft page](https://en.wikipedia.org/wiki/Draft:Emergent_Quantum_Field_Theory) (coming soon).
 
 ---
 
