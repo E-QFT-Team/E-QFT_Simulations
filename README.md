@@ -1,4 +1,9 @@
 # Emergent Quantum Field Theory (E-QFT) — Simulations
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Status: Active Research](https://img.shields.io/badge/Status-Active%20Research-green)]()
+
 **Repository:** E-QFT-Team/E-QFT_Simulations
 
 ---
