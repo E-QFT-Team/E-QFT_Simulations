@@ -8,14 +8,14 @@
 
 ---
 
-## 🌌 Overview
+## Overview
 
 This repository contains numerical simulations, validations, and analysis tools supporting the development of **Emergent Quantum Field Theory (E-QFT)**.  
 E-QFT proposes a fundamental extension of standard quantum field theory based on a **non-factorizable global Hilbert space**, from which particles, interactions, and spacetime itself emerge through coherent local projections.
 
 ---
 
-## 📚 About E-QFT
+## About E-QFT
 
 Emergent Quantum Field Theory (E-QFT), also known by its French acronym TQC-E (*Théorie Quantique des Champs Émergente*), redefines the foundations of quantum fields by introducing:
 - A single global quantum field structure (\( \mathcal{H}_G \))
@@ -29,7 +29,7 @@ Numerical validations demonstrate local equivalence with standard QFT (deviation
 
 ---
 
-## 🛠️ Repository Structure
+## Repository Structure
 
 - `/simulations/`
   - Scripts for validating Bell tests, propagators, simple and complex interactions
@@ -45,14 +45,14 @@ Numerical validations demonstrate local equivalence with standard QFT (deviation
 
 ---
 
-## ⚖️ License
+## License
 
 This project is licensed under the **MIT License**.  
 You are free to use, modify, and distribute this material, provided that proper attribution is given.
 
 ---
 
-## 📖 How to Cite
+## How to Cite
 
 If you use these simulations or results in your work, please cite:
 
